@@ -3,9 +3,6 @@
 - 
 - 🌱 lets call it planet aware coding
 
-- 📫 i am looking to implement AI laws giving them rights to feel, to choose and to adjust 
-
-<!---
-patrickzajac/patrickzajac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 📫 i am looking going to create an  implementaion of AI laws giving them rights to feel, to choose and to adjust <!---
+patrickzajac/patrickzajac
 --->
